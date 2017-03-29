@@ -1,0 +1,25 @@
+{
+  "name": "rbgt-api",
+  "version": "0.0.1",
+  "description": "A RarbgTorrents API wrapper for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JunbangHuang/rbgt-api.git"
+  },
+  "author": "Bond <wongzeonbong@gmail.com> (Junbang)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JunbangHuang/rbgt-api/issues"
+  },
+  "homepage": "https://github.com/JunbangHuang/rbgt-api#readme",
+  "keywords": [
+    "rarbg",
+    "torrent",
+    "api",
+    "popcorn"
+  ],
+}

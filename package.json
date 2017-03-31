@@ -4,14 +4,19 @@
   "description": "A RarbgTorrents API wrapper for Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JunbangHuang/rbgt-api.git"
   },
   "author": "Bond <wongzeonbong@gmail.com> (Junbang)",
-  "license": "MIT",
+  "licenses": [
+	  {
+			"type": "MIT",
+			"url": "https://github.com/JunbangHuang/rbgt-api/blob/master/LICENSE"
+	  }
+  ],
   "bugs": {
     "url": "https://github.com/JunbangHuang/rbgt-api/issues"
   },

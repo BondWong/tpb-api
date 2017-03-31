@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a767f1f5-335d-442d-8b30-0673c6ffe34e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rbgt-api.js" afterPath="$PROJECT_DIR$/rbgt-api.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test.js" afterPath="$PROJECT_DIR$/test/test.js" />
-    </list>
+    <list default="true" id="a767f1f5-335d-442d-8b30-0673c6ffe34e" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -22,8 +18,8 @@
       <file leaf-file-name="rbgt-api.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rbgt-api.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="42" column="44" lean-forward="true" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+            <state relative-caret-position="387">
+              <caret line="56" column="29" lean-forward="true" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#44#66#0" expanded="true" />
@@ -243,12 +239,12 @@
       <updated>1490746139717</updated>
       <workItem from="1490746141422" duration="3539000" />
       <workItem from="1490886991839" duration="18592000" />
-      <workItem from="1490977747346" duration="7965000" />
+      <workItem from="1490977747346" duration="9251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30096000" />
+    <option name="totallyTimeSpent" value="31382000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="737" y="200" width="796" height="634" extended-state="0" />
@@ -347,8 +343,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rbgt-api.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="42" column="44" lean-forward="true" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+        <state relative-caret-position="387">
+          <caret line="56" column="29" lean-forward="true" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="29" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#44#66#0" expanded="true" />

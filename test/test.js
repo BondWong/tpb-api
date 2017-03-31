@@ -10,7 +10,7 @@ var rbgt = new RBGT({debug: true});
 describe("The search method", function() {
     it("throws error with invalid parameter", function() {
         var validParameter = function() {
-            rbgt.search({name: 'The Walking Dead'});
+            rbgt.search({name: 'The Walking Dead S07E15'}).then(result => console.log(result));
         };
 
         expect(validParameter).not.toThrow();

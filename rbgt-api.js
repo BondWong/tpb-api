@@ -15,10 +15,19 @@ module.exports = class RBGT {
         this._debug = debug;
     }
 
-    _fetchData(body, responseTime) {
+    _fetchData(name, body, responseTime) {
         const $ = cheerio.load(body);
+        const showName = name.replace(/ /g, '\.');
 
-        
+        const result = {
+            responseTime,
+            name: showName,
+        }
+
+        // search for the first one with resolution of 720p or 1080p
+
+        return result;
+
     }
 
     _getData({name}, date) {
@@ -32,7 +41,7 @@ module.exports = class RBGT {
             headers: {
                 'user-agent': agents.MAC_SAFARI5
             }
-        }).then(res => res.body).then(body => this._fetchData(body, Date.now() - date));
+        }).then(res => res.body).then(body => this._fetchData(name, body, Date.now() - date));
 
     }
 

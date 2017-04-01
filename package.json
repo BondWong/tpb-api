@@ -1,6 +1,6 @@
 {
   "name": "tpb-api",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Node.js torrents API wrapper for ThePirateBay",
   "main": "build/tpb-api.js",
   "scripts": {

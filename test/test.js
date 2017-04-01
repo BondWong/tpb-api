@@ -4,7 +4,7 @@
 
 'use strict';
 
-import RBGT from '../tpb-api.js';
+import RBGT from '../src/tpb-api.js';
 
 var rbgt = new RBGT({debug: true});
 describe("The search method", function() {

@@ -18,7 +18,7 @@ npm install --save tpb-api
 ```js
 const TPB = require('tpb-api');
 
-const tpb = new TPB({[baseUrl, debug]});
+const tpb = new TPB();
 ```
 
 ### Example usage
